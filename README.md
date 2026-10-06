@@ -1,2 +1,2 @@
-# berbagipendidikan-app
-Merupakan pusat simulasi ujian CBT online dan bank soal terlengkap di Indonesia. Temukan materi dan latihan soal terbaru, pembahasan akurat, dan tips sukses menghadapi ujian berbasis komputer secara digital.
+# SOS-app
+Permainan strategi klasik berbasis kertas dan pensil untuk dua pemain atau lebih yang sangat mirip dengan tic-tac-toe.
